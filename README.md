@@ -1,2 +1,8 @@
 # Nematode_Genome_Project
-Scripts used for the curation and annotation of Nematode genome
+
+This repository includes scripts used for the curation and annotation of Nematode genome. Here, we present our pipeline in three parts.
+1. Genome assembly pipeline
+2. Repeat library preparation
+3. Genome annotation
+---
+1. Genome assembly
