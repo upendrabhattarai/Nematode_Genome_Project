@@ -5,4 +5,7 @@ This repository includes scripts used for the curation and annotation of Nematod
 2. Repeat library preparation
 3. Genome annotation
 ---
-1. Genome assembly
+## 1. Genome Assembly Pipeline
+
+Workflow for nematode genome assembly using ONT and  10x reads
+![Alt text](assembly_pipeline.jpg?raw=true "Title")
