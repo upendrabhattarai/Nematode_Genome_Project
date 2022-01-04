@@ -35,7 +35,7 @@ Process is described in four stages, scripts used for each stage is given below:
       1. Sine database
       2. Dfam database
       3. Repbase database
-3. Contenating and classifying Repeat database
+3. Concatenating and classifying Repeat database
       1. RepeatClassifier
 4. Repeat masking the genome
       1. RepeatMasker
