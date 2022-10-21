@@ -48,3 +48,5 @@ Maker2 pipeline is used for genome annotation. mRNA seq data is denovo assembled
       2. Trinity
 2. Downloading publicly available datasets
 3. Configuring and running Maker2 pipeline
+---
+The software, packages, and pipelines used in the nematode genome project is very similar to our earwig genome project. So, for detailed scripts and codes please refer to our [earwig genome project code repository](https://github.com/upendrabhattarai/Earwig_genome_project)
